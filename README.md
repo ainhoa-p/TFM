@@ -1,2 +1,2 @@
-El objetivo principal de este proyecto es crear un software de citación automática de los pacientes que tienen que acudir a un servicio de radiología a hacerse una prueba, en concreto, de la sección de radiología mamaria. 
-Se crea un sistema basado en reglas
+El objetivo principal de este proyecto es crear un software de citación automática de los pacientes que tienen que acudir a un Servicio de Radiología, en concreto de la Unidad de Mama.
+La creación de las agendas de citación se realiza de forma manual 🖋️ en muchos hospitales suponiendo una gran inversión de tiempo por parte del personal administrativo. Por ello, la creación de este software que emplea un sistema basado en reglas combinado con algoritmos de optimización, supondría la disminución de los errores ❌ y del tiempo empleado en esta tarea 🕑
